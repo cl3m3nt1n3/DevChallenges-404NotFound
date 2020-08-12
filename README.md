@@ -1,2 +1,2 @@
 # DevChallenges-404NotFound
-My solution for the 404 Not Found devchallenges task
+My solution for devchallenges 404 Not Found page 
